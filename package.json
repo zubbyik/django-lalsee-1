@@ -1,0 +1,19 @@
+{
+  "name": "django-lalsee-npm",
+  "version": "1.0.0",
+  "description": "This is an npm package for my django project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zubbyik/django-lalsee-1.git"
+  },
+  "author": "Zubby Ike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zubbyik/django-lalsee-1/issues"
+  },
+  "homepage": "https://github.com/zubbyik/django-lalsee-1#readme"
+}
